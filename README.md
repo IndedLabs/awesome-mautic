@@ -58,7 +58,7 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Custom Audiences (Facebook Ads) | Unknown | Advertising |  |  | — | — | Jun 2024 |
 | Czech Vocative Bundle | granam | Contact |  | ✅ | <a href="https://github.com/granam/mautic-czech-vocative" target="_blank">GitHub</a> | — | Unknown |
 | Database Driven Custom Navigation | Unknown | Admin UX |  |  | — | — | Aug 2024 |
-| Dripify Plugin | Aivie | Integration | 🟢 |  | <a href="https://github.com/aiviemarketing/plugin-dripify" target="_blank">GitHub</a> | — | Apr 2026 |
+| Dripify Plugin | Aivie | Integration | 🟢 |  | — | <a href="https://aivie.ch/product/aivie-dripify-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=plugin-dripify" target="_blank">Website</a> | Apr 2026 |
 | Email & Landing Page Builder | Aivie | Core UX | 🟢 |  | — | <a href="https://aivie.ch/product/mautic-builder-for-e-mail-und-landingpages/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=email-landing-page-builder" target="_blank">Website</a> | 2026 |
 | Extended Field Bundle | TheDMSGroup | Contact |  |  | <a href="https://github.com/TheDMSGroup/mautic-extended-field" target="_blank">GitHub</a> | — | Aug 2023 |
 | Extendee Form Tab Bundle | mtcextendee | Form |  |  | <a href="https://github.com/mtcextendee/mautic-extendee-form-tab-bundle" target="_blank">GitHub</a> | — | Jun 2021 |
@@ -129,6 +129,7 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 
 | Name | Author | Category | Maintained | GitHub | Website | Last updated |
 |------|--------|----------|------------|--------|---------|-------------|
+| Aivie for WooCommerce | Aivie | WordPress | 🟢 | — | <a href="https://wordpress.org/plugins/aivie-for-woocommerce/" target="_blank">WordPress Plugins</a> | June 2026 |
 | mautibox | mautibox | Tooling |  | — | <a href="https://mautibox.com/" target="_blank">Website</a> | Unknown |
 | mautic-whitelabeler | nickian | Community |  | <a href="https://github.com/nickian/mautic-whitelabeler" target="_blank">GitHub</a> | — | Apr 2021 |
 
