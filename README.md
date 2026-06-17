@@ -36,7 +36,9 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 
 | Name | Author | Category | Maintained | Marketplace | GitHub | Website | Last updated |
 |------|--------|----------|------------|-------------|--------|---------|-------------|
+| Ablefy Plugin | Aivie | Online Courses | 🟢 |  | — | — | June 2026 |
 | Acquia Custom Objects Plugin | Acquia | Data Model |  | ✅ | — | — | Oct 2024 |
+| Ad Sync Plugin | Aivie | Advertising | 🟢 |  | — | <a href="https://aivie.ch/en/product/aivie-mautic-ads-plugin-sync-segments-directly-with-meta-ads/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=ad-sync-plugin" target="_blank">Website</a> | June 2026 |
 | Advanced Templates Bundle | Logicify | Dynamic Content |  |  | <a href="https://github.com/Logicify/mautic-advanced-templates-bundle" target="_blank">GitHub</a> | — | Mar 2021 |
 | Amazon SES Integration | etailors | Email |  | ✅ | <a href="https://github.com/pm-pmaas/etailors_amazon_ses" target="_blank">GitHub</a> | — | Dec 2025 |
 | Amazon SNS Callback | matbcvo | Email |  | ✅ | <a href="https://github.com/matbcvo/mautic-amazon-sns-callback" target="_blank">GitHub</a> | — | Jan 2026 |
@@ -49,11 +51,14 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Cal.com Plugin | Aivie | Integration | 🟢 |  | — | <a href="https://aivie.ch/product/mautic-cal-com-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=cal-com-plugin" target="_blank">Website</a> | 2025 |
 | ChatGPT Email Wizard Plugin | Aivie | AI | 🟢 |  | — | <a href="https://aivie.ch/en/product/mautic-e-mail-wizard-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=chatgpt-email-wizard-plugin" target="_blank">Website</a> | 2025 |
 | Clear the Cache Plugin | Unknown | Infrastructure |  |  | — | — | Mar 2022 |
+| Commerce Plugin | Aivie | E-Commerce | 🟢 |  | — | <a href="https://aivie.ch/en/product/aivie-mautic-e-commerce-marketing-automation/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=commerce-plugin" target="_blank">Website</a> | June 2026 |
 | Company Points by Leuchtfeuer | Leuchtfeuer Digital Marketing GmbH | Contact |  | ✅ | <a href="https://github.com/Leuchtfeuer/mautic-CompanyPoints-bundle" target="_blank">GitHub</a> | — | Dec 2025 |
 | Company Segments by Leuchtfeuer | Leuchtfeuer Digital Marketing GmbH | Contact |  | ✅ | <a href="https://github.com/Leuchtfeuer/mautic-CompanySegments-bundle" target="_blank">GitHub</a> | — | Nov 2025 |
 | Company Tags by Leuchtfeuer | Leuchtfeuer Digital Marketing GmbH | Contact |  | ✅ | <a href="https://github.com/Leuchtfeuer/mautic-CompanyTags-bundle" target="_blank">GitHub</a> | — | Jan 2026 |
+| Connect Plugin | Aivie | Integration | 🟢 |  | — | — | June 2026 |
 | Contact Ledger | TheDMSGroup | Contact |  |  | <a href="https://github.com/TheDMSGroup/mautic-contact-ledger" target="_blank">GitHub</a> | — | Sep 2023 |
 | Crafting.email Bundle | Crafting.email | Email |  |  | — | — | Sep 2024 |
+| CRM Plugin | Aivie | CRM | 🟢 |  | — | <a href="https://aivie.ch/en/lead-management-crm/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=crm-plugin" target="_blank">Website</a> | June 2026 |
 | Cronfig | cronfig | Infrastructure |  | ✅ | <a href="https://github.com/cronfig/mautic-cronfig" target="_blank">GitHub</a> | — | Unknown |
 | Custom Audiences (Facebook Ads) | Unknown | Advertising |  |  | — | — | Jun 2024 |
 | Czech Vocative Bundle | granam | Contact |  | ✅ | <a href="https://github.com/granam/mautic-czech-vocative" target="_blank">GitHub</a> | — | Unknown |
@@ -65,6 +70,7 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Extendee Webhook Response Bundle | mtcextendee | Integration |  |  | <a href="https://github.com/mtcextendee/mautic-extendee-webhook-response-bundle" target="_blank">GitHub</a> | — | Jun 2021 |
 | Facebook Lead Ads Plugin | Unknown | Advertising |  |  | — | — | Oct 2017 |
 | Firebase Cloud Messaging Plugin | Unknown | Push Notifications |  |  | — | — | Nov 2022 |
+| Form Plugin | Aivie | Form | 🟢 |  | — | — | June 2026 |
 | Friendly Captcha | Tax Academy | Integration | 🟢 | | <a href="https://github.com/TAWK-GmbH/mautic-friendlycaptcha">Github</a> | – | March 2026 |
 | Google Authenticator Plugin | hostnetbr | Security |  |  | <a href="https://github.com/hostnetbr/mautic-googleauthenticator" target="_blank">GitHub</a> | — | May 2021 |
 | Handy Tools Bundle | Unknown | Utilities |  |  | — | — | Jul 2024 |
@@ -78,9 +84,11 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Mosparo integration | mosparo | Form |  | ✅ | <a href="https://github.com/mosparo/mautic-plugin" target="_blank">GitHub</a> | — | Mar 2026 |
 | Mtalkz SMS | mtalkz-mobility | SMS |  | ✅ | <a href="https://github.com/mtalkz-mobility/mautic-mtalkz-bundle" target="_blank">GitHub</a> | — | Unknown |
 | Name Sanitizer | hostnetbr | Contact |  |  | <a href="https://github.com/hostnetbr/mautic-namesanitizer" target="_blank">GitHub</a> | — | Apr 2021 |
+| Notifier Plugin | Aivie | Notifications | 🟢 |  | — | — | June 2026 |
 | Omnivery integration | omnivery | Email |  | ✅ | <a href="https://github.com/omnivery/mautic-omnivery-plugin" target="_blank">GitHub</a> | — | Unknown |
 | OneSignal Push Notifications | Unknown | Push Notifications |  |  | — | — | Jan 2025 |
 | Owner Rotator Bundle | mtcextendee | Contact |  | ✅ | <a href="https://github.com/mtcextendee/mautic-owner-rotator-bundle" target="_blank">GitHub</a> | — | Unknown |
+| Page to PDF Plugin | Aivie | Sales | 🟢 |  | — | <a href="https://aivie.ch/en/feature/personalized-pdfs-automatically-create-individual-documents/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=page-to-pdf-plugin" target="_blank">Website</a> | June 2026 |
 | Pipedrive CRM Plugin | Unknown | Integration |  |  | — | — | Sep 2024 |
 | Plivo Bundle | mtcextendee | SMS |  |  | <a href="https://github.com/mtcextendee/mautic-plivo-bundle" target="_blank">GitHub</a> | — | Jul 2021 |
 | reCAPTCHA Plugin | Aivie | Security | 🟢 |  | <a href="https://github.com/aiviemarketing/aivie-recaptcha" target="_blank">GitHub</a> | <a href="https://aivie.ch/product/mautic-recaptcha-plugin/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=recaptcha-plugin" target="_blank">Website</a> | Mar 2026 |
