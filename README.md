@@ -82,8 +82,6 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Email & Landing Page Builder | Aivie | Core UX | 🟢 |  | — | <a href="https://aivie.ch/product/mautic-builder-for-e-mail-und-landingpages/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=email-landing-page-builder" target="_blank">Website</a> | Nov 2026 |
 | ERPNext | Monogramm | ERP |  |  | <a href="https://github.com/Monogramm/erpnext-mautic" target="_blank">GitHub</a> | — | Aug 2019 |
 | Extended Field Bundle | TheDMSGroup | Contact |  |  | <a href="https://github.com/TheDMSGroup/mautic-extended-field" target="_blank">GitHub</a> | — | May 2020 |
-| Extendee Form Tab Bundle | mtcextendee | Form |  |  | <a href="https://github.com/mtcextendee/mautic-extendee-form-tab-bundle" target="_blank">GitHub</a> | — | Unknown |
-| Extendee Webhook Response Bundle | mtcextendee | Integration |  |  | <a href="https://github.com/mtcextendee/mautic-extendee-webhook-response-bundle" target="_blank">GitHub</a> | — | Unknown |
 | F24 / eCall | Aivie | SMS | 🟢 |  | — | <a href="https://aivie.ch/en/feature/send-multilingual-sms-directly-from-aivie/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=f24-ecall" target="_blank">Website</a> | Nov 2026 |
 | Facebook Lead Ads Plugin | Unknown | Advertising |  |  | — | — | Oct 2017 |
 | Facebook profiles | Mautic | Social (legacy) | 🟢 |  | <a href="https://github.com/mautic/mautic/blob/7.x/plugins/MauticSocialBundle/Integration/FacebookIntegration.php" target="_blank">GitHub</a> | — | Aug 2026 |
@@ -98,7 +96,6 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | Google BigQuery | Aivie | Analytics | 🟢 |  | — | <a href="https://aivie.ch/shop/?utm_source=github&utm_medium=plugin-list&utm_campaign=opensource&utm_content=google-bigquery" target="_blank">Website</a> | Nov 2026 |
 | Grav | Mautic | CMS |  |  | <a href="https://github.com/mautic/mautic-grav" target="_blank">GitHub</a> | — | May 2022 |
 | Handy Tools Bundle | Unknown | Utilities |  |  | — | — | Jul 2024 |
-| Hello World Plugin | dennisameling | Example |  | ✅ | <a href="https://github.com/dennisameling/helloworld-bundle" target="_blank">GitHub</a> | — | Unknown |
 | Housekeeping by Leuchtfeuer | Leuchtfeuer Digital Marketing GmbH | Infrastructure | 🟢 | ✅ | <a href="https://github.com/Leuchtfeuer/mautic-housekeeping-bundle" target="_blank">GitHub</a> | — | Oct 2026 |
 | HubSpot | Mautic | CRM | 🟢 |  | <a href="https://github.com/mautic/mautic/blob/7.x/plugins/MauticCrmBundle/Integration/HubspotIntegration.php" target="_blank">GitHub</a> | — | Oct 2026 |
 | iContact | Mautic | Email lists | 🟢 |  | <a href="https://github.com/mautic/mautic/blob/7.x/plugins/MauticEmailMarketingBundle/Integration/IcontactIntegration.php" target="_blank">GitHub</a> | — | Aug 2026 |
@@ -117,7 +114,6 @@ A Curated List of <a href="https://github.com/mautic/mautic" target="_blank">Mau
 | MessageBird | Mautic | SMS |  |  | <a href="https://github.com/mautic/plugin-messagebird" target="_blank">GitHub</a> | — | Mar 2018 |
 | Microsoft Dynamics | Mautic | CRM | 🟢 |  | <a href="https://github.com/mautic/mautic/blob/7.x/plugins/MauticCrmBundle/Integration/DynamicsIntegration.php" target="_blank">GitHub</a> | — | Oct 2026 |
 | Mosparo integration | mosparo | Security | 🟢 | ✅ | <a href="https://github.com/mosparo/mautic-plugin" target="_blank">GitHub</a> | — | Mar 2026 |
-| Mtalkz SMS | mtalkz-mobility | SMS |  | ✅ | <a href="https://github.com/mtalkz-mobility/mautic-mtalkz-bundle" target="_blank">GitHub</a> | — | Unknown |
 | n8n | n8n | Automation |  |  | — | <a href="https://n8n.io/integrations/mautic/" target="_blank">Website</a> | Unknown |
 | NetSuite | mtcextendee | CRM |  |  | <a href="https://github.com/mtcextendee/mautic-net-suite-bundle" target="_blank">GitHub</a> | — | Oct 2018 |
 | Notifier Plugin | Aivie | Notifications | 🟢 |  | — | — | Nov 2026 |
